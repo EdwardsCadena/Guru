@@ -1,0 +1,17 @@
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\bin\Debug\net6.0\ApiPattern.Infrastructure.deps.json
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\bin\Debug\net6.0\ApiPattern.Infrastructure.runtimeconfig.json
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\bin\Debug\net6.0\ApiPattern.Infrastructure.dll
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\bin\Debug\net6.0\ApiPattern.Infrastructure.pdb
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\obj\Debug\net6.0\ApiPattern.Infrastructure.csproj.AssemblyReference.cache
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\obj\Debug\net6.0\ApiPattern.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\obj\Debug\net6.0\ApiPattern.Infrastructure.AssemblyInfoInputs.cache
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\obj\Debug\net6.0\ApiPattern.Infrastructure.AssemblyInfo.cs
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\obj\Debug\net6.0\ApiPattern.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\obj\Debug\net6.0\ApiPattern.Infrastructure.dll
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\obj\Debug\net6.0\refint\ApiPattern.Infrastructure.dll
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\obj\Debug\net6.0\ApiPattern.Infrastructure.pdb
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\obj\Debug\net6.0\ApiPattern.Infrastructure.genruntimeconfig.cache
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\obj\Debug\net6.0\ref\ApiPattern.Infrastructure.dll
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\bin\Debug\net6.0\ApiPattern.Core.dll
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\bin\Debug\net6.0\ApiPattern.Core.pdb
+F:\Repositories\Guru\ApiPattern\ApiPattern.Infrastructure\obj\Debug\net6.0\ApiPattern.Infrastructure.csproj.CopyComplete

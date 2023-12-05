@@ -1,0 +1,11 @@
+F:\Repositories\Guru\ApiPattern\ApiPattern.Core\bin\Debug\net6.0\ApiPattern.Core.deps.json
+F:\Repositories\Guru\ApiPattern\ApiPattern.Core\bin\Debug\net6.0\ApiPattern.Core.dll
+F:\Repositories\Guru\ApiPattern\ApiPattern.Core\bin\Debug\net6.0\ApiPattern.Core.pdb
+F:\Repositories\Guru\ApiPattern\ApiPattern.Core\obj\Debug\net6.0\ApiPattern.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\Guru\ApiPattern\ApiPattern.Core\obj\Debug\net6.0\ApiPattern.Core.AssemblyInfoInputs.cache
+F:\Repositories\Guru\ApiPattern\ApiPattern.Core\obj\Debug\net6.0\ApiPattern.Core.AssemblyInfo.cs
+F:\Repositories\Guru\ApiPattern\ApiPattern.Core\obj\Debug\net6.0\ApiPattern.Core.csproj.CoreCompileInputs.cache
+F:\Repositories\Guru\ApiPattern\ApiPattern.Core\obj\Debug\net6.0\ApiPattern.Core.dll
+F:\Repositories\Guru\ApiPattern\ApiPattern.Core\obj\Debug\net6.0\refint\ApiPattern.Core.dll
+F:\Repositories\Guru\ApiPattern\ApiPattern.Core\obj\Debug\net6.0\ApiPattern.Core.pdb
+F:\Repositories\Guru\ApiPattern\ApiPattern.Core\obj\Debug\net6.0\ref\ApiPattern.Core.dll
