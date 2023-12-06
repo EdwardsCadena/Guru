@@ -15,10 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ApiPattern.Core\ApiPattern.Core.csproj" />
     <ProjectReference Include="..\ApiPattern.Infrastructure\ApiPattern.Infrastructure.csproj" />
   </ItemGroup>

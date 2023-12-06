@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ApiPattern.Infrastructure.Data;
-
+namespace ApiPattern.Core.Entities;
+//Esta es la entitad que representa la estructura de los datos que se guardan en la base de datos.
 public partial class LogEntry
 {
     public int Id { get; set; }
